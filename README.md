@@ -1,0 +1,2 @@
+# Discord-lootbox
+Discord lootbox
